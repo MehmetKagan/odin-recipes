@@ -1,0 +1,52 @@
+* {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.homepage {
+    background-color: rgba(243, 219, 197, 0.733);
+    text-align: center;
+    font-size: larger;
+}
+.grilled, .bowl, .cajun {
+    background-color:rgba(243, 219, 197, 0.733);
+}
+
+h1 {
+    color: rgba(215, 132, 84, 0.93) ;
+    border-style:double;
+    border-top: 0px;
+    border-width: 6px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 420px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 35px
+}
+ h2 {
+    color: tomato;
+    text-decoration: underline;
+ }
+a {
+    font-weight: 800;
+    color: tomato;
+    text-decoration: none;
+    border-style: solid;
+    border-color:tomato;
+    border-radius: 10px;
+    border-spacing: 20px;
+    padding: 5px;
+    font-size: larger;
+    border-width: 2px;
+}
+
+img {
+
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
